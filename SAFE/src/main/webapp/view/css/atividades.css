@@ -1,0 +1,88 @@
+#contact button[type="submit"] {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: #1e294c;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#contact {
+    background: white;
+    padding: 2rem;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+
+#contact2 {
+    background: #edeff8;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+
+#contact3 {
+    background: #FFF;
+    box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.2);
+    border-radius: 2px;
+}
+
+#contact4 {
+    background: #edeff8;
+    padding: 2rem;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+
+#dropOpt {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: #FFF;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+}
+
+#alter {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: #1e294c;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#alter2 {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: #1e294c;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#data {
+    font-family: 'arial black', 'avant garde';
+    font-size: 18px;
+}
+
+#env {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: slategray;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.dropdown-item {
+	color: black;
+}

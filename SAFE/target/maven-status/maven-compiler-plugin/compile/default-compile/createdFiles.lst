@@ -1,0 +1,11 @@
+modelo\entidade\frequencia\Frequencia_.class
+modelo\entidade\aluno\Aluno_.class
+modelo\entidade\instituicao\Instituicao_.class
+modelo\entidade\usuario\Usuario_.class
+modelo\entidade\administrador\Administrador_.class
+modelo\entidade\extraAtividade\ExtraAtividade_.class
+modelo\entidade\turma\Turma_.class
+modelo\entidade\atividadeAluno\AtividadeAluno_.class
+modelo\entidade\resumo\Resumo_.class
+modelo\entidade\atividadeTurma\AtividadeTurma_.class
+modelo\entidade\professor\Professor_.class

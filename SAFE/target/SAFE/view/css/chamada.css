@@ -1,0 +1,64 @@
+body {
+    width: auto;
+}
+
+#alter {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: #1e294c;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#contact {
+    background: white;
+    padding: 2rem;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+
+#contact2 {
+    background: #edeff8;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+
+#contact3 {
+    background: #FFF;
+    box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.2);
+    border-radius: 2px;
+}
+
+#resumos {
+    margin-top: 30px;
+    background: white;
+    padding: 2rem;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    max-width: 900px;
+    min-width: none;
+    min-height: 50vh;
+}
+
+#dropOpt {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: #FFF;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#data {
+    font-family: 'arial black', 'avant garde';
+    font-size: 18px;
+}
+
+.c {
+    text-align: center;
+}

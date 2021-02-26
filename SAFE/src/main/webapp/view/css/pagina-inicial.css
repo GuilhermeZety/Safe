@@ -1,0 +1,53 @@
+body {
+    width: auto;
+}
+
+#alter {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: #1e294c;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#alter2 {
+    cursor: pointer;
+    width: 200%;
+    border: none;
+    background: #1e294c;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#contact {
+    margin-top: 30px;
+    background: white;
+    padding: 2rem;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    width: auto;
+}
+
+#resumos {
+    margin-top: 30px;
+    background: white;
+    padding: 2rem;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    max-width: 900px;
+    min-width: none;
+    min-height: 50vh;
+}
+
+#entrar {
+    color: #1e294c;
+}
+
+#main {
+    margin-top: 40px;
+}

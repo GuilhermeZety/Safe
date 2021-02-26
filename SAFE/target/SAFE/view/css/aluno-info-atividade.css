@@ -1,0 +1,41 @@
+#main {
+    margin-top: 50px;
+    background: white;
+    padding: 2rem;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    text-align: center;
+}
+
+#down {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: #1e294c;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#env {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: slategray;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#submit {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: #1e294c;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+}

@@ -1,0 +1,24 @@
+ #back {
+     background: url(../img/1021.jpg) no-repeat;
+     -webkit-background-size: cover;
+     -o-background-size: cover;
+     -moz-background-size: cover;
+     background-size: cover;
+ }
+ 
+ #button {
+     cursor: pointer;
+     border: none;
+     background: #1e294c;
+     color: #FFF;
+     margin: 0 0 5px;
+     padding: 10px;
+     font-size: 15px;
+ }
+ 
+ #contact {
+     background: white;
+     padding: 2rem;
+     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+     border-radius: 8px;
+ }

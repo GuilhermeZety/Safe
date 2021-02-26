@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: #1e294c;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main.container {
+    background: white;
+    max-width: 400px;
+    min-height: 40vh;
+    padding: 2rem;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+
+main h2 {
+    font-weight: 600;
+    margin-bottom: 2rem;
+    position: relative;
+}
+
+main h2::before {
+    content: '';
+    position: absolute;
+    height: 4px;
+    width: 25px;
+    bottom: 3px;
+    left: 0;
+    border-radius: 8px;
+    background-color: #1e294c;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu ul li {
+    display: inline-block;
+    color: #1e294c;
+    padding-right: 15px;
+}
+
+.menu ul li:hover {
+    border-bottom: 2px solid #1e294c;
+}
+
+.menu ul li a:hover {
+    color: #1e294c;
+}
+
+.menu ul li a {
+    display: inline-block;
+    color: #1e294c;
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+
+.footer span {
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+.logo {
+    padding-left: 80px;
+    padding-top: 30px;
+}
+
+#contact {
+    background: white;
+    padding: 2rem;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+
+#contact2 {
+    background: #edeff8;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+
+#contact3 {
+    background: #FFF;
+    box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.2);
+    border-radius: 2px;
+}
+#back{
+    background: url(../imagens/background.jpg) fixed no-repeat;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}

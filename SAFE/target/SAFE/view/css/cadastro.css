@@ -1,0 +1,48 @@
+#contact button[type="submit"] {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: #1e294c;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#contact {
+    background: white;
+    padding: 2rem;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+
+#contact2 {
+    background: #edeff8;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+
+#contact3 {
+    background: #FFF;
+    box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.2);
+    border-radius: 2px;
+}
+
+#back {
+    background: url(../img/background.jpg) fixed no-repeat;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+#alter {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: #1e294c;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+}
